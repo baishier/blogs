@@ -129,7 +129,8 @@ http://vault.centos.org/7.0.1406/os/x86_64/Packages/
 27、Activerehashing 重新hash  
 
 ## 参考文献
-http://blog.csdn.net/yangjjuan/article/details/70244935
-https://redis.io
-http://blog.csdn.net/lk10207160511/article/details/50364088
-http://blog.csdn.net/baidu_30000217/article/details/51476712  
+    http://blog.csdn.net/yangjjuan/article/details/70244935
+    https://redis.io
+    http://blog.csdn.net/lk10207160511/article/details/50364088
+    http://blog.csdn.net/baidu_30000217/article/details/51476712  
+    《鸟哥的Linux私房菜》
