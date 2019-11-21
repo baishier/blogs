@@ -32,6 +32,7 @@
 ### 1.redis后台运行
 
 1、我们要把src目录下面的redis-cli、redis-server、redis-sentinel移到/usr/bin目录下面
+
     # cd src  
     # mv redis-cli redis-server redis-sentinel /usr/bin/  
     # cd ..  
