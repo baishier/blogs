@@ -37,6 +37,7 @@
     # cd ..  
     # mkdir -p /etc/redis/  
     # cp redis.conf /etc/redis/redis.conf
+    
 2、现在打开文件/etc/redis/redis.conf， 找到‘daemonize no’改为‘daemonize yes‘，然后启动它！  
     # redis-server /etc/redis/redis.conf  
 
